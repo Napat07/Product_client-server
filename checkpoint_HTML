@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	
+<head>
+<title>5835512007</title>
+   <center>
+
+    
+    <h1 style="background-color:powderblue;">Hello World</h1>
+    
+	<a href="http://www.google.co.th"> 
+	<img src="https://avatars2.githubusercontent.com/u/35357641?s=460&v=4" 
+	alt="Napat" width="420" height="345"></a>
+  	<br><br>
+ 
+<style>
+body {background-color: MediumSeaGreen;}
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
+
+}
+ table {
+  width:100%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+table#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+table#t01 th {
+  background-color: black;
+  color: white;
+ul.a {
+  list-style-type: square;
+}
+}
+</style>
+</head>
+<body>
+<h2>ประวัติการศึกษา</h2>
+<table id="t01">
+<tr>
+      <th scope="col">#</th>
+      <th scope="col">โรงเรียน</th>
+      <th scope="col">จังหวัด</th>
+      <th scope="col">ระดับชั้น<</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>โรงเรียนอนุบาลทักษิณสยาม</td>
+      <td>สตูล</td>
+      <td>อ.1-ป.6</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>โรงเรียนสตูลวิทยา</td>
+      <td>สตูล</td>
+      <td>ม.1-ม.6</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>มหาวิทยาลัยสงขลานครินทร์</td>
+      <td>สตูล</td>
+      <td>ปริญญาตรี</td>
+    </tr>
+</table>
+</body></center>
+<br>
+<h2>ช่องทางการติดต่อ</h2>
+<ul class="a">
+  <li><a href="https://www.Facebook.com/newnapat17">Facebook</a></li>
+  <li><a href="https://www.gmail.com/naphat1811@gmail.com">Gmail</a></li>
+  <li><a href="https://www.instagram.com/zwen_np/?hl=th">Instargram</a></li>
+</ul>
+</body> 
+	</head>
+</html> 
